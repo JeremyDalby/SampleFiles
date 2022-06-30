@@ -1,5 +1,3 @@
-Jokes taken from: https://www.devtopics.com/best-programming-jokes/
-~~~~~~~~~~~~~~~~~~~~~~~~~
 Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -25,9 +23,6 @@ very long pause….
 “Java.”
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
-~~~~~~~~~~~~~~~~~~~~~~~~~
-Programming is like sex:
-One mistake and you have to support it for the rest of your life.
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 A man is smoking a cigarette and blowing smoke rings into the air.  His girlfriend becomes irritated with the smoke and says, “Can’t you see the warning on the cigarette pack?  Smoking is hazardous to your health!”
 To which the man replies, “I am a programmer.  We don’t worry about warnings; we only worry about errors.”
@@ -71,3 +66,4 @@ A computer science student is studying under a tree and another pulls up on a fl
 The student on the bike replies, “While I was studying outside, a beautiful girl pulled up on her bike.  She took off all her clothes and said, ‘You can have anything you want’.”
 The first student responds, “Good choice!  Her clothes probably wouldn’t have fit you.”
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Jokes taken from: https://www.devtopics.com/best-programming-jokes/
